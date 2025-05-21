@@ -22,6 +22,10 @@ export class ContentComponent {
     {
       title: "Eternal Kinship: Where the Undead Belong",
       text: "Vestibulum odio nisi, mollis sit amet velit eget, pretium pharetra nulla. Nulla faucibus nisi magna, nec porttitor neque vehicula nec. Pellentesque imperdiet mi interdum dictum gravida. Ut laoreet consectetur quam sed molestie. Sed iaculis placerat nisl eu mollis. Aenean aliquam elementum accumsan. Nunc iaculis at arcu nec ullamcorper. Suspendisse fermentum mi sit amet ligula porttitor iaculis. Vivamus vestibulum justo eget libero efficitur, sit amet volutpat dui accumsan. Vestibulum elementum accumsan nibh, vel tincidunt nunc rutrum id. Duis vel nibh sem. Phasellus justo ipsum, viverra et maximus rutrum, scelerisque ac leo. Mauris in euismod sapien. In ullamcorper est vulputate turpis porttitor tempor. Etiam a egestas odio. "
-    }
+    },
+    {
+      title: "Titulo lala",
+      text: "Vestibulum odio nisi, mollis sit amet velit eget, pretium pharetra nulla. Nulla faucibus nisi magna, nec porttitor neque vehicula nec. Pellentesque imperdiet mi interdum dictum gravida. Ut laoreet consectetur quam sed molestie. Sed iaculis placerat nisl eu mollis. Aenean aliquam elementum accumsan. Nunc iaculis at arcu nec ullamcorper. Suspendisse fermentum mi sit amet ligula porttitor iaculis. Vivamus vestibulum justo eget libero efficitur, sit amet volutpat dui accumsan. Vestibulum elementum accumsan nibh, vel tincidunt nunc rutrum id. Duis vel nibh sem. Phasellus justo ipsum, viverra et maximus rutrum, scelerisque ac leo. Mauris in euismod sapien. In ullamcorper est vulputate turpis porttitor tempor. Etiam a egestas odio. "
+    },
   ])
 }
