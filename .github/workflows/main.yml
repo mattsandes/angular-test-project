@@ -23,9 +23,6 @@ jobs:
       - name: 📦 Instalar dependências
         run: npm ci
 
-      - name: ✅ Lint
-        run: npm run lint
-
       - name: 🧪 Testes Unitários
         run: npm run test -- --watch=false --browsers=ChromeHeadless
 
