@@ -1,0 +1,7 @@
+<div class="container">
+
+  @for (item of contentArray(); track item) {
+    <h2 [innerHTML]="item.title" data-cy="post-title"></h2>
+    <article [innerHTML]="item.text" data-cy="post-text"></article>
+  }
+</div>
